@@ -1,0 +1,57 @@
+html {
+  background: url(images/boardBackground.jpg);
+}
+body {
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 600px;
+  padding-left: 130px;
+  padding-right: 130px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  align-content: center;
+  margin: auto;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h4 {
+  text-align: center;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: rgb(60, 60, 60);
+  border-radius: 18px;
+  font-family: "Kavivanar", cursive;
+  letter-spacing: 4px;
+}
+
+h2 {
+  font-family: "Kavivanar", small-caps;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.5px;
+  font-size: 16px;
+}
+
+#Pawn-Piece {
+  color: orange;
+}
+#Knight-Piece {
+  color: blue;
+}
+#Queen-Piece {
+  color: red;
+}
